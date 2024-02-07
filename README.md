@@ -12,13 +12,13 @@ Um card que inclui informações de uma residencia para locação.
 
 ## Exemplo 2: Card-2
 
-Um card para seleção de planos e descrição.
+Um card para seleção de planos com descrição.
 
   <img src="https://i.imgur.com/2rWqx6v.png" alt="GIF" data-canonical-src="https://i.imgur.com/2rWqx6v.png" style="max-width: 50%;">
 
 ## Exemplo 3: Card-3 
 
-Um card com informações relacionados a um perfil.
+Um card com informações relacionados a um perfil de rede social.
 
  <img src="https://i.imgur.com/JZHAiN9.png" alt="GIF" data-canonical-src="https://i.imgur.com/JZHAiN9.png" style="max-width: 50%;">
 
