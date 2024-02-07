@@ -24,7 +24,6 @@ body {
   right: -100px;
   height: 60vh;
   rotate: -4deg;
-  /* background: #0f71ff; */
   background-image: linear-gradient(180deg, #ff99f4 0, #f78fe8 16.67%, #d683d9 33.33%, #b576c5 50%, #9568b0 66.67%, #7a5c9d 83.33%, #62518b 100%);
 }
 
